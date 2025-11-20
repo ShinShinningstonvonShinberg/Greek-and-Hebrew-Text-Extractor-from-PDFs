@@ -1,2 +1,5 @@
 # Greek-and-Hebrew-Text-Extractor-from-PDFs
-Program that lets you extract Greek or Hebrew Text from one or multiple PDFs. It outputs the extracted text as a simple ".txt" cosponsoring to the original PDF  
+Program that lets you extract Greek or Hebrew Text from one or multiple PDFs. It outputs the extracted text as a simple ".txt" cosponsoring to the original PDF. 
+Very bear-bones right now, but it does what I need it to do, and I made this because I couldn't find something like it online. Hopefully you find use for it too, even though it's not exactly fleshed out. I don't really care what you do with this thing, just don't sell it for money. Not because you'd be stealing, but because it's a grave sin to make merchandise out of God. Jesus drove the money-changers out of the temple with a whip, and Peter warns (in Second Peter) that there's a special punishment for those who do such a thing. Though being honest, if you don't beleive in Jesus, then you've got far bigger problems than that.
+To run the program, simply drop "GreekHebrewTextExtractor.exe" into the folder where those PDFs are stored, and run it. It'll work from there, you'll see.
+At some point, I'd like to add a macOS and Linux version. What that entails is that I stop eating pizza, icecream, mac and cheese, and french fries for long enough to do so. That is an uphill battle.
